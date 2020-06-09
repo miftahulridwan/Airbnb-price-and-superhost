@@ -13,7 +13,7 @@ The aim of this project is to understand the variables which are contribute to A
 In this project, we find that our feature selection model produce marginal improvement in recall score (81.7%) compare to baseline model (81.59%). We also found that owner responsiveness, strict cancellation policy and property cleanliness play pivotal role in predicting the superhost status.
 <br>
 
-Furthermore, we find that our feature selection model also produce slight higher accuracy (61.34%) than the baseline model (59.93%). Variables such as: type of bathrooms, number of bedrooms, number of bed available, and type of cancellation policy are among the most important features that predict the price. The full report are available [here](https://github.com/miftahulridwan/airbnb-price-and-superhost/blob/master/report/Group%2031.pdf "Full Report")
+Furthermore, we find that our feature selection model also produce slightly higher accuracy (61.34%) than the baseline model (59.93%). Variables such as: type of bathrooms, number of bedrooms, number of bed available, and type of cancellation policy are among the most important features that predict the price. The full report are available [here](https://github.com/miftahulridwan/airbnb-price-and-superhost/blob/master/report/Group%2031.pdf "Full Report")
 
 
 ## Environment and Library
