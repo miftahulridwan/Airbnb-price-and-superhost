@@ -1,5 +1,5 @@
 # Airbnb Price Determinant and Superhost Prediction
-This project is an assignment for Programming with R course in Master of Data Science and Society program, Tilburg University. In this project, we investigate the determinant of price category as well as superhost prediction using Airbnb dataset for [Hawaii area](http://data.insideairbnb.com/united-states/hi/hawaii/2019-11-01/visualisations/listings.csv "Airbnb data for Hawaii Area as of November 2019") as of November 2019. 
+This project is an assignment for Programming with R course in Master of Science in Data Science and Society program, Tilburg University. In this project, we investigate the determinant of price category as well as superhost prediction using Airbnb dataset for [Hawaii area](http://data.insideairbnb.com/united-states/hi/hawaii/2019-11-01/visualisations/listings.csv "Airbnb data for Hawaii Area as of November 2019") as of November 2019. 
 
 ## Table of Directory
 1. [Code](https://github.com/miftahulridwan/airbnb-price-and-superhost/tree/master/code)
